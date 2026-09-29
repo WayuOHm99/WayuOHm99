@@ -112,13 +112,3 @@
 - **ออกแบบให้คนไทยใช้งานได้จริง** หน้าจอภาษาไทย รองรับมือถือเป็นหลัก
 - **ทำงานร่วมกับ AI coding assistant** อย่างมีกติกา ผ่าน `AGENTS.md` / `CLAUDE.md`
 
----
-
-## 📊 สถิติ GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=WayuOHm99&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WayuOHm99&layout=compact&hide_border=true" alt="Top languages">
-
-</div>
