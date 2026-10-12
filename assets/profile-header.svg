@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">โอมมี่ — พัฒนาเว็บและระบบงาน</title>
+  <desc id="desc">ผลงานด้านหน้าเว็บ API ข้อมูล และการทดสอบ</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b2d"/><stop offset="1" stop-color="#142d3e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <path d="M800 0v360M920 0v360M1040 0v360M1160 0v360M740 60h460M740 180h460M740 300h460" stroke="#b0d7e8" stroke-opacity=".06"/>
+  <circle cx="1000" cy="175" r="106" fill="none" stroke="#5eead4" stroke-opacity=".16" stroke-width="2"/>
+  <rect x="922" y="97" width="156" height="156" rx="30" transform="rotate(-12 1000 175)" fill="#173b4a" stroke="#5eead4" stroke-opacity=".3"/>
+  <path d="M969 149l-28 26 28 26M1031 149l28 26-28 26M1013 137l-26 76" stroke="url(#accent)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <rect x="56" y="51" width="5" height="21" rx="2" fill="#5eead4"/>
+  <text x="76" y="68" font-family="Segoe UI,Arial,sans-serif" font-size="16" font-weight="600" letter-spacing="3" fill="#9eb3c8">WAYUOHM99 / PORTFOLIO</text>
+  <text x="56" y="155" font-family="Segoe UI,Arial,sans-serif" font-size="70" font-weight="700" letter-spacing="-2" fill="#f5f9ff">OHMMY</text>
+  <text x="58" y="202" font-family="Segoe UI,Arial,sans-serif" font-size="23" font-weight="500" letter-spacing="4" fill="#5eead4">SOFTWARE DEVELOPER</text>
+  <text x="58" y="261" font-family="Tahoma,Segoe UI,sans-serif" font-size="23" fill="#d6e3ef">พัฒนาเว็บและระบบงานที่ใช้งานได้จริง</text>
+  <text x="58" y="306" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#9eb3c8">WEB · API · DATA · TESTING</text>
+</svg>
