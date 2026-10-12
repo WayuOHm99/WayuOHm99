@@ -1,114 +1,64 @@
-<div align="center">
+# สวัสดีครับ ผมโอมมี่
 
-# ดีงับบบบ! 👋
+ผมพัฒนาเว็บแอปพลิเคชันและระบบที่ช่วยให้การทำงานเป็นระเบียบและตรวจสอบได้ สนใจทั้งการออกแบบหน้าจอ การพัฒนา API การจัดการข้อมูล และการทดสอบ โดยเรียนรู้ผ่านการลงมือทำโครงงานและแก้ปัญหาจากการใช้งานจริง
 
-**ผมโอมมี่ชอบทำเทคและเว็บไซต์ทั่วไปและเว็บแอปพลิเคชัน,สร้างโปรแกรมหรือระบบแก้ปัญหาไปเรื่อยเพราะทำแล้วรู้สึกสนุกและชอบการที่ได้เรียนรู้สิ่งใหม่ๆฝากตัวด้วยงับ**<br>
-ตั้งแต่ระบบภายในโรงพยาบาล ระบบคะแนนค่าย ไปจนถึงเครื่องมือ AI สำหรับนักศึกษา และ Dashboard สำหรับทีมวิ่งของผมเองฮิฮิ
+## ผลงานหลัก: SUTH Helpdesk Assets
 
-</div>
+[ระบบบริหารทรัพย์สิน IT และงานพิมพ์ของโรงพยาบาล](https://github.com/WayuOHm99/suth-helpdesk-assets-portfolio)
 
----
+**โครงงานฝึกงาน · 8 มิถุนายน–12 ตุลาคม 2026**
 
-## 🧰 เครื่องมือที่ใช้
+รับผิดชอบการพัฒนาระบบครบวงจรภายใต้การดูแลของพี่เลี้ยง ตั้งแต่หน้าเว็บและ API ไปจนถึงการทดสอบ เอกสาร และการส่งมอบ โดยคงเครดิตผู้ร่วมพัฒนาจากโครงการต้นทาง
 
-**ภาษา**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- จัดการทะเบียนเครื่องพิมพ์ สัญญา และจำนวนพิมพ์รายเดือน
+- ตรวจแผนก่อนยืนยันนำเข้า Excel/CSV และรองรับ CSV ภาษาไทย
+- วิเคราะห์การพิมพ์และค่าใช้จ่ายด้วย Dashboard พร้อมตัวกรองและไฟล์ส่งออก
+- ตรวจความถูกต้องด้วย unit tests การทดสอบผ่านเบราว์เซอร์ และการตรวจการเข้าถึงหน้าเว็บ
 
-**Frontend**<br>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue_3-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+**เทคโนโลยีหลัก:** Vue 3 · Express · MySQL · TanStack Query · Playwright
 
-**Backend และฐานข้อมูล**<br>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![หน้าเข้าสู่ระบบ SUTH Helpdesk Assets](https://raw.githubusercontent.com/WayuOHm99/suth-helpdesk-assets-portfolio/main/docs/portfolio/images/login.png)
 
-**Cloud, AI และการทดสอบ**<br>
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+ภาพตัวอย่างไม่มีข้อมูลบัญชีจริง ภาพภายในระบบใช้ข้อมูลจำลอง
 
----
+[ดูโค้ดและภาพตัวอย่าง](https://github.com/WayuOHm99/suth-helpdesk-assets-portfolio) · [อ่านกรณีศึกษา 5 งาน](https://github.com/WayuOHm99/suth-helpdesk-assets-portfolio/blob/main/docs/portfolio/README.md)
 
-## 🚀 ผลงานเด่น
+## ผลงานอื่น
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [RubricLens AI](https://github.com/WayuOHm99/rubriclens-ai)
 
-### 🔍 [RubricLens AI](https://github.com/WayuOHm99/rubriclens-ai)
-ผู้ช่วยตรวจรายงานภาษาไทยตามเกณฑ์ (rubric) ด้วย AI ให้คะแนนถ่วงน้ำหนักพร้อม **หลักฐานที่ใช้ตัดสินทุกข้อ** และบอกว่ายังขาดอะไร
+ผู้ช่วยวิเคราะห์รายงานภาษาไทยตามเกณฑ์ประเมินด้วย AI แสดงหลักฐานประกอบคำตัดสินและประเด็นที่ควรปรับปรุง โดยคำนวณคะแนนรวมด้วยโค้ด
 
-- คะแนนรวมคำนวณด้วยโค้ด ไม่ปล่อยให้ AI คิดเลขเอง
-- รองรับ PDF และเอกสารยาวด้วยการวิเคราะห์สองขั้น
-- เทสอัตโนมัติ 264 unit และ 96 E2E บน 4 เบราว์เซอร์
+**เทคโนโลยี:** React · TypeScript · Cloudflare Workers · Gemini
+[เปิดเว็บสาธิต](https://rubriclensai.pages.dev/)
 
-`React` `TypeScript` `Cloudflare Workers` `Gemini`
+### [EQ-BANK (CAMPBANK)](https://github.com/WayuOHm99/CAMPBANK)
 
-**[🌐 ลองใช้งานจริง](https://rubriclensai.pages.dev/)**
+ระบบให้คะแนนกิจกรรมค่ายสำหรับทีมงานหลายคน รองรับการใช้งานบนมือถือ แสดงอันดับแบบเรียลไทม์ และตรวจสอบประวัติการให้คะแนนได้
 
-</td>
-<td width="50%" valign="top">
+**เทคโนโลยี:** Next.js · Supabase · PostgreSQL · Playwright
+[เปิดเว็บสาธิต](https://campbank-fawn.vercel.app)
 
-### 🏦 [EQ-BANK (CAMPBANK)](https://github.com/WayuOHm99/CAMPBANK)
-ระบบให้คะแนนกิจกรรมค่ายแบบ Mobile-first ที่ทีมงานหลายคนกดคะแนนพร้อมกันได้ อันดับอัปเดตแบบเรียลไทม์ และตรวจสอบย้อนหลังได้ทุกรายการ
+### [Run Performance Project](https://github.com/WayuOHm99/Run-Performance-Project)
 
-- ฐานข้อมูลเป็นผู้ตัดสินคะแนนด้วย atomic RPC และ RLS
-- ทดสอบการกดพร้อมกัน 10 sessions ไม่มีคะแนนหาย
-- ติดตั้งเป็น PWA ได้ ใช้งานบน iPhone, Android และ iPad
+ระบบรวบรวมข้อมูลการออกกำลังกายจาก Garmin และแสดง Dashboard สำหรับติดตามการฝึกซ้อม ความก้าวหน้า และการฟื้นตัวของนักกีฬา
 
-`Next.js` `Supabase` `PostgreSQL` `Playwright`
+**เทคโนโลยี:** Python · Streamlit · SQLite · Plotly
 
-**[🌐 ลองใช้งานจริง](https://campbank-fawn.vercel.app)**
+## เทคโนโลยีที่ใช้ในโครงงาน
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+| ด้าน | เครื่องมือ |
+|---|---|
+| ภาษา | JavaScript, TypeScript, Python, SQL |
+| หน้าเว็บ | Vue 3, React, Next.js, Tailwind CSS, Streamlit |
+| API และข้อมูล | Node.js, Express, MySQL, PostgreSQL, SQLite, Supabase |
+| การทดสอบและส่งมอบ | Git, Playwright, Vitest, Docker, Cloudflare Workers, Vercel |
 
-### 🏥 [SUTH Helpdesk Assets](https://github.com/saritrungj/suth-helpdesk-assets)
-ระบบบริหารทรัพย์สิน IT ภายในโรงพยาบาล เน้นทะเบียนเครื่องพิมพ์ สัญญาเช่า ยอดพิมพ์รายเดือน และค่าใช้จ่ายตามปีงบประมาณ
+## แนวทางการทำงาน
 
-- นำเข้ายอดพิมพ์จาก Excel/CSV พร้อมตรวจความครบถ้วน
-- Dashboard กรองตามปีงบ ฝ่าย แผนก สัญญา และส่งออก Excel
-- สิทธิ์ admin / staff / viewer, สลับไทย/อังกฤษ, โหมดมืด
+- เริ่มจากปัญหาของผู้ใช้และกำหนดขอบเขตงานให้ชัดเจน
+- เลือกการทดสอบให้เหมาะกับความเสี่ยง และระบุสิ่งที่ยังไม่ได้ตรวจ
+- บันทึกเหตุผลของการตัดสินใจเพื่อให้พัฒนาต่อและส่งมอบได้ง่าย
+- ใช้ AI ช่วยพัฒนา โดยตรวจสอบโค้ดและผลลัพธ์ก่อนนำไปใช้
 
-`Vue 3` `Express` `MySQL` `TanStack Query`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏃 [Run Performance Project](https://github.com/WayuOHm99/Run-Performance-Project)
-ระบบดึงข้อมูลนาฬิกา Garmin ของนักกีฬาในทีมมาเก็บในฐานข้อมูล แล้วแสดงเป็น Coach Dashboard สำหรับติดตามการซ้อมและการฟื้นตัว
-
-- ซิงก์อัตโนมัติตามเวลาด้วย Windows Task Scheduler
-- Dashboard 6 หน้า: วันนี้ ทีม การฟื้นตัว การซ้อม ความก้าวหน้า เซสชัน
-- สำรองข้อมูลแบบเข้ารหัส และมีระบบแจ้งเตือนเมื่อระบบผิดปกติ
-
-`Python` `Streamlit` `SQLite` `Plotly`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ แนวทางการทำงาน
-
-- **ทดสอบก่อนบอกว่าเสร็จ** ทุกโปรเจกต์มี CI และชุดเทสอัตโนมัติ
-- **บันทึกเหตุผลของการตัดสินใจ** ด้วย ADR (Architecture Decision Record)
-- **ออกแบบให้คนไทยใช้งานได้จริง** หน้าจอภาษาไทย รองรับมือถือเป็นหลัก
-- **ทำงานร่วมกับ AI coding assistant** อย่างมีกติกา ผ่าน `AGENTS.md` / `CLAUDE.md`
-
+ดูรายละเอียดการออกแบบ การทดสอบ และข้อจำกัดของแต่ละงานได้จากเอกสารใน Repo ของโครงการนั้น
